@@ -1,3 +1,3 @@
-# My Scripts
+# Shell Scripts Miscellaneous
 
-Contains my shell scripts.
+Contains a miscellaneous of 💲hell scripts with multiples features,
